@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-17T09:10:46.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="X5A-luPRl_qeg_Bl8DVr" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-17T09:11:21.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36" etag="748mpcQgDwi-I-K945cj" version="12.9.14" type="github">
   <diagram id="DN_JDYelwI-e4BV0x_p0" name="Page-1">
     <mxGraphModel dx="1879" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="W8oFfhN4CYwsVUqukFXb-91" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Output&lt;/span&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;jumlah_genap&lt;br&gt;jumlah_ganjil&lt;/blockquote&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="760" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W8oFfhN4CYwsVUqukFXb-95" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W8oFfhN4CYwsVUqukFXb-95" value="return" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="870" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W8oFfhN4CYwsVUqukFXb-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W8oFfhN4CYwsVUqukFXb-104">
@@ -376,7 +376,7 @@
         <mxCell id="W8oFfhN4CYwsVUqukFXb-175" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;span&gt;Output&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;ttl&lt;/blockquote&gt;&lt;/blockquote&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="535" y="390" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W8oFfhN4CYwsVUqukFXb-180" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W8oFfhN4CYwsVUqukFXb-180" value="return" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W8oFfhN4CYwsVUqukFXb-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W8oFfhN4CYwsVUqukFXb-182" target="W8oFfhN4CYwsVUqukFXb-184">
@@ -440,7 +440,7 @@
         <mxCell id="W8oFfhN4CYwsVUqukFXb-198" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="-390" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W8oFfhN4CYwsVUqukFXb-199" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="W8oFfhN4CYwsVUqukFXb-199" value="return" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="580" y="920" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
